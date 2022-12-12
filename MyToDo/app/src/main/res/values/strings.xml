@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">MyToDo</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="action_about" translatable="false">Simple To Do List App</string>
+    <string name="list_name_label" translatable="false">Task Name</string>
+    <string name="list_name_hint" translatable="false">Enter your new to do list</string>
+    <string name="list_save_button" translatable="false">Add To List</string>
+    <string name="list_saved" translatable="false">Saved</string>
+</resources>
